@@ -1,2 +1,2 @@
 # terra_labs
-Repository created for learn abaout terraform cloud by hashicorp
+Repository created for learn about terraform and terraform cloud by Hashicorp.
